@@ -42,7 +42,7 @@ function App() {
         <div className="max-w-[1200px] mx-auto px-6 h-full flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
-            <img src="/assets/El hajj ai w-o background .svg" alt="E.AI Logo" className="h-12 w-auto" />
+            <img src="assets/Logo.svg" alt="E.AI Logo" className="h-12 w-auto" />
           </div>
 
           {/* Center Navigation */}
@@ -132,12 +132,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/EMAIL & COMMUNICATION.png" 
-                    alt="Email & Communication AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/EMAIL & COMMUNICATION.png" 
+                    src="assets/Email-&_Communication.png" 
                     alt="Email & Communication AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
@@ -161,12 +156,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/GENERAL PROBLEM SOLVERS.png" 
-                    alt="General Problem Solvers AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/GENERAL PROBLEM SOLVERS.png" 
+                    src="assets/General-Problem-Solving.png" 
                     alt="General Problem Solvers AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
@@ -190,12 +180,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/CUSTOMER SUPPORT.png" 
-                    alt="Customer Support AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/CUSTOMER SUPPORT.png" 
+                    src="assets/Customer-Support.png" 
                     alt="Customer Support AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
@@ -219,12 +204,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/HUMAN RESOURCES.png" 
-                    alt="Human Resources AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/HUMAN RESOURCES.png" 
+                    src="assets/Human-Resources.png" 
                     alt="Human Resources AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
@@ -248,12 +228,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/DATA PROCESSING.png" 
-                    alt="Data Processing AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/DATA PROCESSING.png" 
+                    src="assets/Data-Processing.png" 
                     alt="Data Processing AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
@@ -277,12 +252,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/HUMAN RESOURCES 2.png" 
-                    alt="Human Resources 2 AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/HUMAN RESOURCES 2.png" 
+                    src="/assets/Human-Resources2.png" 
                     alt="Human Resources 2 AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
@@ -306,12 +276,7 @@ function App() {
               <div className="flex-shrink-0 w-80 border border-[#2A2A2A] rounded-[16px] overflow-hidden hover:border-white/30 transition-all duration-300">
                 <div className="h-48 relative overflow-hidden bg-[#1A1A1A]">
                   <img 
-                    src="/Assests 2/CUSTOMER SUPPORT 2.png" 
-                    alt="Customer Support 2 AI Agent"
-                    className="w-full h-full object-cover rounded-t-[16px]"
-                  />
-                  <img 
-                    src="/Assests 2/CUSTOMER SUPPORT 2.png" 
+                    src="assets/Customer-Support2.png" 
                     alt="Customer Support 2 AI Agent"
                     className="w-full h-full object-cover rounded-t-[16px]"
                   />
